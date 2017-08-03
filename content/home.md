@@ -16,10 +16,10 @@ type="index"
   <br/>
   <br/>
   <br/>
-  <h2><span style="color:#DACE2E">Neues Stück: Heimwärts</span></h2>
+  <h2><span style="color:#D7DA2E">Neues Stück: Heimwärts</span></h2>
   <br/> 
-<h3><span style="color:#BADA55">Premiere 19.01.2018</span></h3><br/>
-  <h3>Bühne S, 20 Uhr </span></h2>
+<h3><span style="color:#A0A21E">Premiere 19.01.2018</span></h3><br/>
+  <h4>Bühne S, 20 Uhr </span></h4>
   <br/>
   <br/>
   <br/>
