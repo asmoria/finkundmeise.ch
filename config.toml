@@ -1,6 +1,6 @@
 baseurl = "http://humans.li"
 languageCode = "de-ch"
-title = "Humans"
+title = "Fink & Meise"
 
 [[menu.main]]
     name = "Home"

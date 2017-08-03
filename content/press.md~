@@ -6,7 +6,7 @@ weight = 300
 +++
 
 <h1>Gallerie/Presse</h1> <br/>
-<h2>Impressionen zu Humans</h2>
+<h2>Impressionen zu Heimwärts</h2>
 
 <div class="carousel" style="width: 900px; height: 620px;">
   <img src="/images/premiereende.jpg" height="620"/>
@@ -15,25 +15,6 @@ weight = 300
   <img src="/images/zirkus.jpg" height="620"/>
 </div>
 <br/>
-<h2> Impressionen zu Refugees</h2>
-
-Vergangenes Jahr feierte <a href="http://www.therefugees.ch">Refugees</a> sein Debut im Fürstentum Liechtenstein. Im Februar 2016 gastierten wir im Kulturhaus Helferei in Zürich. 
-<br/>
-
-<ul>
-  <li><a href="/VaterlandKritik.pdf">
-    02.12.15 Alleine unter so vielen Menschen
-  </a></li>
-
-  <li><a href="/RadioLRefugees.MP3"> Bei den Proben mit Radio L </a></li>
-</ul>
-
-<div class="carousel" style="width: 900px; height: 620px;">
-  <img src="/images/helfereiprobe2.jpg" height="620"/>
-  <img src="/images/zuerich1.jpeg" height="620"/>
-  <img src="/images/helfereiprobe1.png" height="620"/>
-  <img src="/images/premiere1115.jpg" height="620"/>
-</div>
 
 <script>
 $('.carousel').slick({

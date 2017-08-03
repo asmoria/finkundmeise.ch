@@ -4,10 +4,22 @@ url = "/index.html"
 type="index"
 +++
 <div class="overlay">
-  <h1>Premiere: Freitag 01.07.2016/20.15 Uhr</h1>
+ <br/>
+  <br/>
+  <br/>
+ <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+ <br/>
+  <br/>
+  <br/>
+  <br/>
+  <h2><span style="color:#DACE2E">Neues Stück: Heimwärts</span></h2>
   <br/> 
-<h2>Ein Theaterlabor unter freiem Himmel</h2><br/>
-  <h3><span style="color:#BADA55"> Haus am Gleis, Schaan FL </span></h2>
+<h3><span style="color:#BADA55">Premiere 19.01.2018</span></h3><br/>
+  <h3><span style="color:#BADA55">Bühne S, 20 Uhr </span></h2>
   <br/>
   <br/>
   <br/>
@@ -18,14 +30,12 @@ type="index"
   <br/>
   <br/>
 <br/>
-<img src="images/logomigros2.jpg" height="60"/>
 
 </div>
 <div class="carousel" style="width: 900px; height: 620px;">
-  <img src="images/carousel01.jpg" height="620"/>
-  <img src="images/carousel02.jpg" height="620"/>
-  <img src="images/carousel03.jpg" height="620"/>
-  <img src="images/carousel04.jpg" height="620"/>
+  <img src="images/finkundmeise3.jpg" height="620"/>
+  <img src="images/finkundmeise1.jpg" height="620"/>
+  <img src="images/finkundmeise2.jpg" height="620"/>
 </div>
 
 <script>
@@ -38,7 +48,7 @@ $('.carousel').slick({
   prevArrow: null,
   nextArrow: null,
   pauseOnHover: false,
-  speed: 1000,
+  speed: 2000,
 });
 </script>
 
