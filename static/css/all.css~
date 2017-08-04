@@ -42,8 +42,8 @@ ul#mainmenu {
     text-align: center;
     display: block;
     width: 960px;
-    border-top: 1px solid rgba(127, 127, 127, 1);
-    border-bottom: 1px solid rgba(127, 127, 127, 1);
+    border-top: 1px solid rgba(122, 130, 127, 1);
+    border-bottom: 1px solid rgba(122, 127, 127, 1);
 }
 
 ul#mainmenu > li {
@@ -60,13 +60,13 @@ ul#mainmenu > li > a {
     text-decoration: none;
     height: 26px;
     /*padding-top: 3px;*/
-    color: rgba(127, 127, 127, 1);
+    color: rgba(122, 127, 127, 1);
     font-size: 13pt;
     font-weight: bold;
 }
 
 ul#mainmenu > li > a:hover {
-    background-color: rgba(127, 127, 127, 1);
+    background-color: rgba(122, 127, 127, 1);
     text-decoration: none;
     color: #2a2421;
 }
