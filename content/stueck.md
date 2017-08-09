@@ -12,15 +12,15 @@ Kurzweilig, unterhaltsam und
 voller Magie.
 
 <p>
-<img src="/images/heimwärtsgimp2.png" width= 800px/></p></center>
+<img src="/images/heimwärtsgimpgross.png" width= 800px/></p></center>
 <FONT SIZE="4"> 
 </Font>
 
 Mit viel Liebe hat das Duo Fink & Meise unter der Regie von Fabio Romano mit einem Sammelsurium aus Schweizer Volkssagen und Liedern ein generationenübergreifendes Theaterstück konzipiert. Dabei wurden die Geschichten zeitgemäss adaptiert und ein eigener Erzählstil entwickelt mit visueller und akustischer Untermalung. 
 
-<p><h2> Premiere: 19.01.2018 20 Uhr / Wo: Bühne S Zürich/ Bar ab 19 Uhr </h2> </p>
+<p><h2> Premiere: 19.01.2018 20 Uhr / Wo: Bühne S Zürich/ Kasse & Bar ab 19 Uhr </h2> </p>
 
-<p><h3><span style="color:#3261A1">Eintritt 25.- / AHV, Legi 20.- </span></h3></p>
+<p><h3><span style="color:#758484"> Eintritt 25.- / AHV, Legi 20.- </span></h3></p>
 
 <h4><span style="color:#fffdb1">Weitere Vorstellungen: 
 Sa 20.01.2018</span></h4>
