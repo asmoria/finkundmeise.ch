@@ -11,7 +11,7 @@ Das Duo Fink & Meise das sind Olivia Keller und Alice Schönenberger. Zwei profe
 
 <h2>Alice Schönenberger</h2>
 
-<img src="/alice.jpg" style="float: right; margin: 10px;" class="intext" width= "180px" height="180px"</img> Die St.Gallerin absolvierte ihr Studium als Bewegungsschauspielerin an der comart Zürich (Abschluss 2013). Seitdem ist sie in diversen Theaterprojekten involviert. Sie spielte u.a. für die piccola commedia dell’arte, war mit dem Reisetheater Zürich unterwegs, der You-Wish-Theater company und entwickelte auch eigene Projekte etwa <i>Refugees</i>, ein interdiszipliänres Theaterstück mit Flüchtlingen, oder das philosophisch humanistischen Freilichtspiel <i>Humans</i>, um das Menschsein zu ergründen. Nebenbei erkundet sie andere Theatergebiete und ist als Lichttechnikerin im Kellertheater Winterthur tätig. 
+<img src="/alice.jpg" style="float: right; margin: 10px;" class="intext" width= "180px" height="180px"</img> Die St.Gallerin absolvierte ihr Studium als Bewegungsschauspielerin an der comart Zürich (Abschluss 2013). Sie spielte u.a. für die piccola commedia dell’arte, war mit dem Reisetheater Zürich unterwegs, der You-Wish-Theater company und entwickelte auch eigene Projekte etwa <i>Refugees</i>, ein interdiszipliänres Theaterstück mit Flüchtlingen, oder das philosophisch humanistischen Freilichtspiel <i>Humans</i>, um das Menschsein zu ergründen. Nebenbei erkundet sie andere Theatergebiete und ist als Lichttechnikerin im Kellertheater Winterthur tätig. 
 
 
 
