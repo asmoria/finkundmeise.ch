@@ -16,7 +16,7 @@ voller Magie.
 <FONT SIZE="4"> 
 </Font>
 
-Mit viel Liebe hat das Duo Fink & Meise unter der Regie von Fabio Romano mit einem Sammelsurium aus Schweizer Volkssagen und Liedern ein generationenübergreifendes Theaterstück konzipiert. Dabei wurden die Geschichten zeitgemäss adaptiert und ein eigener Erzählstil entwickelt mit visueller und akustischer Untermalung. 
+Mit viel Liebe hat das Duo Fink & Meise unter der Regie von Fabio Romano mit einem Sammelsurium aus Geschichten ein generationenübergreifendes Theaterstück konzipiert. Dabei wurden die Geschichten zeitgemäss adaptiert und ein eigener Erzählstil entwickelt mit visueller und akustischer Untermalung. 
 
 <p><h2> Premiere: 19.01.2018 20 Uhr / Wo: Bühne S Zürich/ Kasse & Bar ab 19 Uhr </h2> </p>
 
