@@ -1,11 +1,11 @@
 +++
-title = "Gallerie/Presse"
+title = "Galerie"
 [menu.main]
-name = "Gallerie/Presse"
+name = "Galerie"
 weight = 300
 +++
 
-<h1>Gallerie/Presse</h1> <br/>
+<h1>Galerie</h1> <br/>
 <h2>Impressionen zu Heimwärts</h2>
 
 
