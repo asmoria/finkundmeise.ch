@@ -10,9 +10,9 @@ weight = 300
 
 
 <div class="carousel" style="width: 900px; height: 620px;">
-  <img src="/images/finkundmeise3.jpg" height="620"/>
-  <img src="/images/finkundmeise1.jpg" height="620"/>
-  <img src="/images/finkundmeise2.jpg" height="620"/>
+  <img src="/images/fink9.jpg" height="620"/>
+  <img src="/images/fink6.jpg" height="620"/>
+  <img src="/images/fink5.jpg" height="620"/>
 </div>
 
 <script>
