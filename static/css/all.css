@@ -129,3 +129,11 @@ div.overlay h1, div.overlay h2, div.overlay h3  {
     /*display: block !important;*/
     margin: 10px;
 }
+
+.gallery {
+	text-align: center;
+}
+
+.gallery > a {
+	padding: 5px;
+}
