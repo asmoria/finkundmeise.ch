@@ -17,8 +17,20 @@ weight = 300
   <a href="/images/fink7.jpg" data-lightbox="impressions">
     <img src="/images/fink7_thumb.jpg"/>
   </a>
+
+  <a href="/images/fink6.jpg" data-lightbox="impressions">
+    <img src="/images/fink6_thumb.jpg"/>
+  </a>
  
+  <a href="/images/finkundmeise3.jpg" data-lightbox="impressions">
+    <img src="/images/finkundmeise3_thumb.jpg"/>
+  </a>
+
   <a href="/images/fink8.jpg" data-lightbox="impressions">
     <img src="/images/fink8_thumb.jpg"/>
+  </a>
+
+  <a href="/images/finkundmeise2.jpg" data-lightbox="impressions">
+    <img src="/images/finkundmeise2_thumb.jpg"/>
   </a>
 </div>
