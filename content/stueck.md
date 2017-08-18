@@ -7,7 +7,8 @@ weight = 100
 <h1>Das Stück</h1>
 <center>
 <br>
-Warum die Zeit im Berg schneller vergeht, man den Hahn besser nicht füttert und der Pfarrer auch nicht alles besser weiss -- Fink & Meise gehen auf Wanderschaft durch den Schweizer Sagen- und Volksliederfundus. <br/>
+Warum die Zeit im Berg schneller vergeht, man den Hahn besser nicht füttert, der Pfarrer auch nicht <br/> alles besser weiss und man vor Geistern keine Angst haben muss -- <br/>
+ Fink & Meise gehen auf Wanderschaft durch den Schweizer Sagen- und Volksliederfundus. <br/>
 Kurzweilig, unterhaltsam und
 voller Magie.
 
