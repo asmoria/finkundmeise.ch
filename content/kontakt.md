@@ -8,8 +8,7 @@ weight = 400
 
 <font size="4">Interesse? Anregungen oder Fragen? </br>
 Wir freuen uns auf ihre Kontaktaufnahme </br>
-</br>
-email: <b>info[at]finkundmeise.ch </b></br>
+<b>info[at]finkundmeise.ch </b></br>
 
 Kontaktformular:
 <p>

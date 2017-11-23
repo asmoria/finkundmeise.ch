@@ -21,7 +21,7 @@ type="index"
   </h2>
   <br/> 
 <h3><span style="color:#BADA55">Premiere 19.01.2018</span></h3><br/>
-  <h4><span style="color:#758484">Bühne S, 20 Uhr </span></h4>
+  <h4><span style="color:#758484">Bühne S Zürich, 20 Uhr </span></h4>
   <br/>
   <br/>
   <br/>

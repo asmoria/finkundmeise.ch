@@ -18,10 +18,16 @@ voller Magie.
 </Font>
 
 Mit viel Liebe hat das Duo Fink & Meise unter der Regie von Fabio Romano mit einem Sammelsurium aus Geschichten ein generationenübergreifendes Theaterstück konzipiert. Dabei wurden die Geschichten zeitgemäss adaptiert und ein eigener Erzählstil entwickelt mit visueller und akustischer Untermalung. 
+<p>
+Spiel & Idee: Olivia Keller & Alice Schönenberger </br>
+Regie: Fabio Romano</br>
+Bühnenbild: Benjamin Fischer</br>
+</p>
 
 <p><h2> Premiere: 19.01.2018 20 Uhr / Wo: Bühne S Zürich/ Kasse & Bar ab 19 Uhr </h2> </p>
 
 <p><h3><span style="color:#758484"> Eintritt 25.- / AHV, Legi 20.- </span></h3></p>
 
-<h4><span style="color:#fffdb1">Weitere Vorstellungen: 
-Sa 20.01.2018</span></h4>
+<h4><span style="color:#fffdb1">Weitere Vorstellungen: </br>
+Sa 20.01.2018 / Bühne S Zürich</br>
+Fr 09.02.2018 / Alte Fabrik Rapperswil</span></h4>
