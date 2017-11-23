@@ -3,7 +3,7 @@ title = "Home"
 url = "/index.html"
 type="index"
 +++
-<div class="overlay">
+<div class="overlay overlay-left">
  <br/>
   <br/>
   <br/>
@@ -34,6 +34,14 @@ type="index"
 <br/>
 
 </div>
+
+<div class="overlay overlay-right">
+  <div id="logos" style="">
+    <img src="images/ktzhsw.jpg"/>
+    <img src="images/migrosschwarz.gif"/>
+  </div>
+</div>
+
 <div class="carousel" style="width: 900px; height: 620px;">
   <img src="images/finkundmeise3.jpg" height="620"/>
   <img src="images/finkundmeise1.jpg" height="620"/>
