@@ -27,6 +27,7 @@ Bühnenbild: Benjamin Fischer</br>
 <p><h2> Premiere: 19.01.2018 20 Uhr / Wo: Bühne S Zürich/ Kasse & Bar ab 19 Uhr </h2> </p>
 
 <p><h3><span style="color:#758484"> Eintritt 30.- / AHV, Legi 25.- </span></h3></p>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScA9I1iT1Rg-UNLNFvxkS1Og2mzkn6yQZrSHN11UiKVrDGI0g/viewform?embedded=true" width="420" height="300" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
 
 <h4><span style="color:#fffdb1">Weitere Vorstellungen: </br>
 Sa 20.01.2018 / Bühne S Zürich</br>
