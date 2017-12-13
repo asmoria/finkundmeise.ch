@@ -38,6 +38,7 @@ type="index"
 <div class="overlay overlay-right">
   <div id="logos" style="">
     <img src="images/ktzhsw.jpg"/>
+    <img src="images/EGS.jpg"/>
     <img src="images/migrosschwarz.gif"/>
   </div>
 </div>
