@@ -5,21 +5,22 @@ type="index"
 +++
 <div class="overlay overlay-left">
  <br/>
+  <br/> 
   <br/>
   <br/>
   <br/>
   <br/>
   <br/>
+  <br/> 
+  <br/> 
   <br/>
   <br/>
   <br/>
-  <br/>
-  <br/>
-  <br/>
+  <br/> 
   <h2>
     <span style="color:#D7DA2E; padding-top: 100px;">Neues Stück: Heimwärts</span>
   </h2>
-  <br/> 
+  <br/>
 <h3><span style="color:#BADA55">Premiere 19.01.2018</span></h3><br/>
   <h4><span style="color:#758484">Bühne S Zürich, 20 Uhr </span></h4>
   <br/>
@@ -44,6 +45,7 @@ type="index"
 </div>
 
 <div class="carousel" style="width: 900px; height: 620px;">
+  <img src="images/flyerfront.jpg" height="620"/>
   <img src="images/finkundmeise3.jpg" height="620"/>
   <img src="images/finkundmeise1.jpg" height="620"/>
   <img src="images/finkundmeise2.jpg" height="620"/>

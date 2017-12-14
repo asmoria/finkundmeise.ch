@@ -4,16 +4,15 @@ title = "Aktuelles Stück"
 weight = 100
 +++
 
-<h1>Das Stück</h1>
+<h1>Heimwärts</h1>
 <center>
-<br>
-Warum die Zeit im Berg schneller vergeht, man den Hahn besser nicht füttert, der Pfarrer auch nicht <br/> alles besser weiss und man vor Geistern keine Angst haben muss -- <br/>
+<b>Warum die Zeit im Berg schneller vergeht, man den Hahn besser nicht füttert, der Pfarrer auch nicht <br/> alles besser weiss und man vor Geistern keine Angst haben muss -- <br/>
  Fink & Meise gehen auf Wanderschaft durch den Schweizer Sagen- und Volksliederfundus. <br/>
 Kurzweilig, unterhaltsam und
-voller Magie.
+voller Magie.</b>
 
 <p>
-<img src="/images/heimwärtsgimpgross.png" width= 800px/></p></center>
+<img src="/images/flyerfront.jpg" width= 600px/></p></center>
 <FONT SIZE="4"> 
 </Font>
 
@@ -21,9 +20,13 @@ Mit viel Liebe hat das Duo Fink & Meise unter der Regie von Fabio Romano mit ein
 <p>
 Spiel & Idee: Olivia Keller & Alice Schönenberger </br>
 Regie: Fabio Romano</br>
-Bühnenbild: Benjamin Fischer</br>
+Technik: Anto Goujon </br>
+Visuals: Super B und Madlaina Sehrnett</br>
+Design Flyer: Stella Waldvogel
 </p>
-
+<a style="color:#758484" href="http://finkundmeise.ch/flyer.pdf">
+        &raquo; Download Flyer
+      </a>
 <p><h2> Premiere: 19.01.2018 20 Uhr / Wo: Bühne S Zürich/ Kasse & Bar ab 19 Uhr </h2> </p>
 
 <p>
