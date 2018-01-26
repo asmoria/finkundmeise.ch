@@ -26,8 +26,8 @@ weight = 300
     <img src="/images/finkundmeise3_thumb.jpg"/>
   </a>
 
-  <a href="/images/fink8.jpg" data-lightbox="impressions">
-    <img src="/images/fink8_thumb.jpg"/>
+  <a href="/images/f&m1.jpg" data-lightbox="impressions">
+    <img src="/images/f&m1_thumb.jpg"/>
   </a>
 
   <a href="/images/finkundmeise2.jpg" data-lightbox="impressions">
