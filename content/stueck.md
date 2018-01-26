@@ -27,7 +27,7 @@ Design Flyer: Stella Waldvogel
 <a style="color:#758484" href="http://finkundmeise.ch/flyer.pdf">
         &raquo; Download Flyer
       </a>
-<p><h2> Premiere: 19.01.2018 20 Uhr / Wo: Bühne S Zürich/ Kasse & Bar ab 19 Uhr </h2> </p>
+<p><h2> Nächste Vorstellung: Fr 09.02.2018 20 Uhr / Wo: Fabriktheater Rapperswil</h2> </p>
 
 <p>
   <h3>
@@ -39,6 +39,4 @@ Design Flyer: Stella Waldvogel
     </span>
   </h3>
 </p>
-<h4><span style="color:#fffdb1">Weitere Vorstellungen: </br>
-Sa 20.01.2018 / Bühne S Zürich</br>
-Fr 09.02.2018 / Alte Fabrik Rapperswil</span></h4>
+
