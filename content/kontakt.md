@@ -25,6 +25,6 @@ Kontaktformular:
 <a target="_blank" title="find us on Facebook" href="https://www.facebook.com/DuoFinkundMeise"> <img src="/images/fbbutt.png" style="float: right; margin: 0px;"> </a>
 
 <img src="/images/fink9.jpg" width= 600px/> </br>
-<FONT SIZE="2">© 2017 www.finkundmeise.ch 
+<FONT SIZE="2">© 2018 www.finkundmeise.ch 
 </br>Texte & Inhalte by Alice Schönenberger </br>
 
