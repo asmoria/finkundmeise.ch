@@ -5,16 +5,15 @@ weight = 100
 +++
 
 <h1>Heimwärts</h1>
-<center>
-<b>Warum die Zeit im Berg schneller vergeht, man den Hahn besser nicht füttert, der Pfarrer auch nicht <br/> alles besser weiss und man vor Geistern keine Angst haben muss -- <br/>
- Fink & Meise gehen auf Wanderschaft durch den Schweizer Sagen- und Volksliederfundus. <br/>
+<center> 
+<span style="letter-spacing: 1px; font-size: 18px"> 
+Warum die Zeit im Berg schneller vergeht, man den Hahn besser nicht füttert, der Pfarrer auch nicht alles besser weiss und man vor Drachen keine Angst haben muss -- 
+ Fink & Meise gehen auf Wanderschaft durch den Schweizer Sagen- und Volksliederfundus. 
 Kurzweilig, unterhaltsam und
-voller Magie.</b>
+voller Magie.</span>
 
 <p>
 <img src="/images/flyerfront.jpg" width= 600px/></p></center>
-<FONT SIZE="4"> 
-</Font>
 
 Mit viel Liebe hat das Duo Fink & Meise unter der Regie von Fabio Romano mit einem Sammelsurium aus Geschichten ein generationenübergreifendes Theaterstück konzipiert. Dabei wurden die Geschichten zeitgemäss adaptiert und ein eigener Erzählstil entwickelt mit visueller und akustischer Untermalung. 
 <p>

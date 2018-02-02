@@ -18,11 +18,13 @@ type="index"
   <br/>
   <br/> 
   <h2>
-    <span style="color:#D7DA2E; padding-top: 100px;">Neues Stück: Heimwärts</span>
+    <span style="color:#D7DA2E; padding-top: 100px; letter-spacing: 2px">Neues Stück: Heimwärts</span>
   </h2>
   <br/>
-<h3><span style="color:#BADA55">Fabriktheater Rapperswil Fr 09.02.2018</span></h3><br/>
-  <h4><span style="color:#758484">20.00 Uhr - Eintritt 30.-/ 25.- </span></h4>
+<h3><span style="color:#BADA55; letter-spacing: 1px">Fabriktheater Rapperswil Fr 09.02.2018</span></h3><br/>
+  <h4><span style="color:#758484; letter-spacing: 1px">
+  20.00 Uhr ‒ Eintritt 30.-/ 25.-
+  </span></h4>
  
 
 </div>
