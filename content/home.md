@@ -37,7 +37,6 @@ type="index"
 
 <div class="carousel" style="width: 900px; height: 620px;">
   <img src="images/f&m2.jpg" height="620"/>
-  <img src="images/flyerfront.jpg" height="620"/>
   <img src="images/finkundmeise3.jpg" height="620"/>
   <img src="images/finkundmeise2.jpg" height="620"/>
 </div>
