@@ -3,22 +3,7 @@ title = "Home"
 url = "/index.html"
 type="index"
 +++
-<div class="overlay overlay-left">
- <br/>
-  <br/> 
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/> 
-  <br/> 
-  <br/>
-  <br/>
-  <br/>
-  <br/> 
-  <h2>
-</div>
+
 
 <div class="overlay overlay-right">
   <div id="logos" style="">
