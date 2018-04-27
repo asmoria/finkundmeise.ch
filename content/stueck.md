@@ -7,7 +7,7 @@ weight = 100
 <img src="/images/flyerfront1.jpg" width= 900px/></p>
 
 <span style="letter-spacing: 1px; font-size: 18px"> 
-Warum die Zeit im Berg schneller vergeht, man den Hahn besser nicht füttert, der Pfarrer auch nicht alles besser weiss. -- 
+Warum die Zeit im Berg schneller vergeht, man den Hahn besser nicht füttert und der Pfarrer auch nicht alles besser weiss -- 
  Fink & Meise gehen auf Wanderschaft durch den Schweizer Sagen- und Volksliederfundus. 
 Kurzweilig, unterhaltsam und
 voller Magie.
@@ -25,7 +25,8 @@ Design Flyer: Stella Waldvogel
 </p>
 </center>
 
-<p><h2> Nächste Vorstellung: Sa 30.06.2018 20 Uhr / Park im Grüene Rüschlikon</h2> </p>
+<p><h2> Nächste Vorstellung: Sa 30.06.2018 20 Uhr / <a style="color:#758484" href=https://www.parkimgruene.ch/de/veranstaltungen/fink-und-meise.html >
+        &raquo; Park im Grüene Rüschlikon </a></h2> </p>
 
 <p>
   <h3>
