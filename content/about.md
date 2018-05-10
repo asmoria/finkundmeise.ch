@@ -6,8 +6,7 @@ weight=200
 <h1>Über Uns</h1>
 <center> 
 Das Duo Fink & Meise das sind Olivia Keller und Alice Schönenberger. Zwei professionelle Schauspielerinnen, die nach langjähriger gemeinsamer Bühnenerfahrung beschlossen haben, ein Duo zu gründen und so selbstentwickelte Musik- und Theaterprojekte zu verwirklichen. 
-
-<img src="/images/finkundmeise1.jpg" height="420"/> </center>
+</center>
 
 
 <h2>Olivia Keller</h2>

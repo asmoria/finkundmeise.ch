@@ -20,6 +20,16 @@ weight = 300
   <a href="/images/f&m6.jpg" data-lightbox="impressions">
     <img src="/images/f&m6_thumb.jpg"/>
   </a>
+  <a href="/images/f&m8.jpg" data-lightbox="impressions">
+    <img src="/images/f&m8_thumb.jpg"/>
+  </a>
+<a href="/images/f&m9.jpg" data-lightbox="impressions">
+    <img src="/images/f&m9_thumb.jpg"/>
+  </a>
+<a href="/images/f&m10.jpg" data-lightbox="impressions">
+    <img src="/images/f&m10_thumb.jpg"/>
+  </a>
+
 </div>
 
 <h2>Das Duo Fink &amp; Meise</h2>

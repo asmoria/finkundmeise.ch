@@ -20,8 +20,8 @@ Mit viel Liebe, Witz und Ironie hat das Duo Fink & Meise unter der Regie von Fab
 Spiel & Idee: Olivia Keller & Alice Schönenberger </br>
 Regie: Fabio Romano</br>
 Technik: Anto Goujon </br>
-Visuals: Super B und Madlaina Sehrnett</br>
-Design Flyer: Stella Waldvogel
+Bühnenbild: Benjamin Fischer</br>
+Flyer & Logo: Stella Waldvogel
 </p>
 </center>
 
