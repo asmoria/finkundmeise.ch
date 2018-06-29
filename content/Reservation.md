@@ -6,9 +6,9 @@ weight = 200
 
 <h2>Nächste Vorstellungen </h2>
 
-- Sa 30.06.2018 20 Uhr <a style="color:#758484" href=https://www.parkimgruene.ch/de/veranstaltungen/fink-und-meise.html >
+- Sa 30.06.2018 20 Uhr <a style="color:#758484" href=https://www.parkimgruene.ch/de/veranstaltungen/aktuell/fink-und-meise.html >
         &raquo; Park im Grüene Rüschlikon </a>
-- So 01.07.2018 16 Uhr <a style="color:#758484" href=https://www.parkimgruene.ch/de/veranstaltungen/fink-und-meise.html >
+- So 01.07.2018 16 Uhr <a style="color:#758484" href=https://www.parkimgruene.ch/de/veranstaltungen/aktuell/fink-und-meise.html >
         &raquo; Park im Grüene Rüschlikon  </a>
 - Fr 30.08.2018  20 Uhr <a style="color:#758484" href=http://www.untersiggenthal.ch/freizeit/ortsmuseum/>
         &raquo; Ortsmuseum Untersiggenthal </a>
