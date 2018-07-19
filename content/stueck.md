@@ -25,8 +25,8 @@ Flyer & Logo: Stella Waldvogel
 </p>
 </center>
 
-<p><h2> Nächste Vorstellung: Sa 30.06.2018 20 Uhr / <a style="color:#758484" href=https://www.parkimgruene.ch/de/veranstaltungen/fink-und-meise.html >
-        &raquo; Park im Grüene Rüschlikon </a></h2> </p>
+<p><h2> Nächste Vorstellung: FR 31.08.2018 20 Uhr / <a style="color:#758484" href=http://www.untersiggenthal.ch/freizeit/ortsmuseum/>
+        &raquo; Ortsmuseum Untersiggenthal </a></h2> </p>
 
 <p>
   <h3>

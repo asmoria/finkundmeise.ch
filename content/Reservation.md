@@ -6,11 +6,8 @@ weight = 200
 
 <h2>Nächste Vorstellungen </h2>
 
-- Sa 30.06.2018 20 Uhr <a style="color:#758484" href=https://www.parkimgruene.ch/de/veranstaltungen/aktuell/fink-und-meise.html >
-        &raquo; Park im Grüene Rüschlikon </a>
-- So 01.07.2018 16 Uhr <a style="color:#758484" href=https://www.parkimgruene.ch/de/veranstaltungen/aktuell/fink-und-meise.html >
-        &raquo; Park im Grüene Rüschlikon  </a>
-- Fr 30.08.2018  20 Uhr <a style="color:#758484" href=http://www.untersiggenthal.ch/freizeit/ortsmuseum/>
+
+- Fr 31.08.2018  20 Uhr <a style="color:#758484" href=http://www.untersiggenthal.ch/freizeit/ortsmuseum/>
         &raquo; Ortsmuseum Untersiggenthal </a>
 - Sa 01.09.2018  20 Uhr <a style="color:#758484" href=http://www.untersiggenthal.ch/freizeit/ortsmuseum/>
         &raquo; Ortsmuseum Untersiggenthal </a>
@@ -20,6 +17,10 @@ weight = 200
 
 <h2>Vergangene Vorstellungen </h2>
 
+- Sa 30.06.2018 20 Uhr <a style="color:#758484" href=https://www.parkimgruene.ch/de/veranstaltungen/abgelaufen/fink-und-meise.html > 
+        &raquo; Park im Grüene Rüschlikon </a>
+- So 01.07.2018 16 Uhr <a style="color:#758484" href=https://www.parkimgruene.ch/de/veranstaltungen/abgelaufen/fink-und-meise.html > 
+        &raquo; Park im Grüene Rüschlikon  </a>
 - 08.02.2018 Fabriktheater Rapperswil
 - 20.01.2018 Bühne S Zürich
 - 19.01.2018 Bühne S Zürich
