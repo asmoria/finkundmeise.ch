@@ -8,9 +8,9 @@ weight = 200
 
 
 - Fr 31.08.2018  20 Uhr <a style="color:#758484" href=http://www.untersiggenthal.ch/freizeit/ortsmuseum/>
-        &raquo; Ortsmuseum Untersiggenthal </a> Information & Reservation: +4179 595 74 65
+        &raquo; Ortsmuseum Untersiggenthal </a> Information & Reservation: +4179 595 74 65 - AUSVERKAUFT
 - Sa 01.09.2018  20 Uhr <a style="color:#758484" href=http://www.untersiggenthal.ch/freizeit/ortsmuseum/>
-        &raquo; Ortsmuseum Untersiggenthal </a> Information & Reservation: +4179 595 74 65
+        &raquo; Ortsmuseum Untersiggenthal </a> Information & Reservation: +4179 595 74 65 - AUSVERKAUFT
 - Do 27.09.2018 15 Uhr <a style="color:#758484" href=https://www.stadt-zuerich.ch/gud/de/index/alter/neues-zuhause/alterszentren/25-haeuser/az-klus-park0.html#> &raquo; Kluspark Theater Zürich </a> 
 
 
