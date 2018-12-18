@@ -10,7 +10,7 @@ Das Duo Fink & Meise das sind Olivia Keller und Alice Schönenberger. Zwei profe
 
 
 <h2>Olivia Keller</h2>
-<img src="/images/Olivia.jpg" style="float: left; margin: 10px;" class="intext" width= "180px" height="180px"</img>Schon während ihrer Erstausbildung zur Sozialpädagogin hat sie mehr Theater gespielt als gebüffelt und sich bald nach dem Bachelor für den Schauspielberuf entschieden. Nach der Schauspielausbildung an der SAMTS (Abschluss 2015) war sie mehrere Saisons mit dem Reisetheater Zürich auf Tournee und realisierte die Eigenproduktion „Gloria“ mit der You Wish Theater Company. Sie gestaltet Lesungen für diverse Autoren, u.a für Martin Städeli (Wetterwechsel) und Béatrice Stössel (Die Geschichte vom kleinen blauen Traktor). Neben der Bühne ist sie als Theatercoach tätig.
+<img src="/images/Olivia.jpg" style="float: left; margin: 10px;" class="intext" width= "180px" height="180px"</img>Absolvierte die Schauspielausbildung an der SAMTS und ist seither auf den deutschschweizer Bühnen unterwegs. So war sie mehrere Saisons mit dem Reisetheater Zürich auf Tournee und realisierte die Eigenproduktion Gloria mit der You Wish Theater Company. Sie macht Musik als Solokünstlerin und in verschiedenen Formationen. Neben der Bühne ist sie als Theatercoach tätig. 
 
 <left><h2>Alice Schönenberger</h2></left>
 
