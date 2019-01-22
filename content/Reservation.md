@@ -7,13 +7,14 @@ weight = 200
 <h3>Nächste Vorstellungen </h3>
 
 <table>
-<tr><td>Do</td> <td>27.09.2018</td><td> 15 Uhr</td> <td><a style="color:#758484" href=https://www.stadt-zuerich.ch/gud/de/index/alter/neues-zuhause/alterszentren/25-haeuser/az-klus-park0.html#> &raquo; Kluspark Theater Zürich </a> </td></tr>
+<tr><td>Fr </td> <td>04.05.2019</td><td> 20 Uhr</td> <td> Pfarreiheim St. Sebastian Wettingen</td></tr>
 </table>
 </br>
 
 <h3>Vergangene Vorstellungen </h3>
 
 <table>
+<tr><td>Do</td><td>27.09.2018</td><td><a style="color:#758484" href=https://www.stadt-zuerich.ch/gud/de/index/alter/neues-zuhause/alterszentren/25-haeuser/az-klus-park0.html#> &raquo; Kluspark Theater Zürich </a> </td></tr>
 <tr><td>Sa</td> <td>01.09.2018 </td> <td> <a style="color:#758484" href=http://www.untersiggenthal.ch/freizeit/ortsmuseum/>
         &raquo; Ortsmuseum Untersiggenthal </a> </td></tr>
 <tr><td>Fr</td> <td>31.08.2018 </td> <td> <a style="color:#758484" href=http://www.untersiggenthal.ch/freizeit/ortsmuseum/>
