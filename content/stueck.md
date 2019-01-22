@@ -25,7 +25,7 @@ Flyer & Logo: Stella Waldvogel
 </p>
 </center>
 
-<p><h2> Nächste Vorstellung: DO 27.09.2018 15 Uhr / <a style="color:#758484" href=https://www.stadt-zuerich.ch/gud/de/index/alter/neues-zuhause/alterszentren/25-haeuser/az-klus-park0.html#> &raquo; Kluspark Theater Zürich </a></h2> </p>
+<p><h3> Nächste Vorstellung: Fr 05.04.2019 20 Uhr / Pfarreiheim St.Sebastian Wettingen </h3> </p>
 
 <p>
   <h3>
