@@ -7,7 +7,7 @@ weight = 200
 <h3>Nächste Vorstellungen </h3>
 
 <table>
-<tr><td>Fr </td> <td>04.05.2019</td><td> 20 Uhr</td> <td> Pfarreiheim St. Sebastian Wettingen</td></tr>
+<tr><td>Fr </td> <td>05.04.2019</td><td> 20 Uhr</td> <td> Pfarreiheim St. Sebastian Wettingen</td></tr>
 </table>
 </br>
 
