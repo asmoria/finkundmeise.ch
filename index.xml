@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fink &amp; Meise</title>
+    <link>http://www.finkundmeise.ch/</link>
+    <description>Recent content on Fink &amp; Meise</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <atom:link href="http://www.finkundmeise.ch/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Home</title>
+      <link>http://www.finkundmeise.ch/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.finkundmeise.ch/index.html</guid>
+      <description>&lt;div class=&#34;overlay overlay-right&#34;&gt;
+  &lt;div id=&#34;logos&#34; style=&#34;&#34;&gt;
+    &lt;img src=&#34;images/ktzhsw.jpg&#34;/&gt;
+    &lt;img src=&#34;images/EGS.jpg&#34;/&gt;
+    &lt;img src=&#34;images/migrosschwarz.gif&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;carousel&#34; style=&#34;width: 900px; height: 620px;&#34;&gt;
+  &lt;img src=&#34;images/f&amp;m2.jpg&#34; height=&#34;620&#34;/&gt;
+  &lt;img src=&#34;images/finkundmeise3.jpg&#34; height=&#34;620&#34;/&gt;
+  &lt;img src=&#34;images/finkundmeise2.jpg&#34; height=&#34;620&#34;/&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+$(&#39;.carousel&#39;).slick({
+  slidesToShow: 1,
+  slidesToScroll: 1,
+  autoplay: true,
+  fade: true,
+  autoplaySpeed: 4500,
+  prevArrow: null,
+  nextArrow: null,
+  pauseOnHover: false,
+  speed: 2000,
+});
+&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spielplan</title>
+      <link>http://www.finkundmeise.ch/Reservation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.finkundmeise.ch/Reservation/</guid>
+      <description>&lt;h3&gt;Nächste Vorstellungen &lt;/h3&gt;
+
+&lt;p&gt;coming soon!
+&lt;/br&gt;&lt;/p&gt;
+
+&lt;h3&gt;Vergangene Vorstellungen &lt;/h3&gt;
+
+&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;Fr &lt;/td&gt; &lt;td&gt;05.04.2019&lt;/td&gt;&lt;td&gt; Pfarreiheim St. Sebastian Wettingen
+&lt;tr&gt;&lt;td&gt;Do&lt;/td&gt;&lt;td&gt;27.09.2018&lt;/td&gt;&lt;td&gt;&lt;a style=&#34;color:#758484&#34; href=https://www.stadt-zuerich.ch/gud/de/index/alter/neues-zuhause/alterszentren/25-haeuser/az-klus-park0.html#&gt; &amp;raquo; Kluspark Theater Zürich &lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Sa&lt;/td&gt; &lt;td&gt;01.09.2018 &lt;/td&gt; &lt;td&gt; &lt;a style=&#34;color:#758484&#34; href=http://www.untersiggenthal.ch/freizeit/ortsmuseum/&gt;
+        &amp;raquo; Ortsmuseum Untersiggenthal &lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Fr&lt;/td&gt; &lt;td&gt;31.08.2018 &lt;/td&gt; &lt;td&gt; &lt;a style=&#34;color:#758484&#34; href=http://www.untersiggenthal.ch/freizeit/ortsmuseum/&gt;
+        &amp;raquo; Ortsmuseum Untersiggenthal &lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;So &lt;/td&gt;&lt;td&gt;01.07.2018 &lt;/td&gt; &lt;td&gt;&lt;a style=&#34;color:#758484&#34; href=https://www.parkimgruene.ch/de/veranstaltungen/abgelaufen/fink-und-meise.html &gt; 
+        &amp;raquo; Park im Grüene Rüschlikon &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Sa&lt;/td&gt; &lt;td&gt;30.06.2018 &lt;/td&gt;&lt;td&gt;&lt;a style=&#34;color:#758484&#34; href=https://www.parkimgruene.ch/de/veranstaltungen/abgelaufen/fink-und-meise.html &gt; 
+        &amp;raquo; Park im Grüene Rüschlikon  &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Fr&lt;/td&gt; &lt;td&gt;08.02.2018 &lt;/td&gt;&lt;td&gt;Fabriktheater Rapperswil&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Sa&lt;/td&gt; &lt;td&gt;20.01.2018 &lt;/td&gt;&lt;td&gt;Bühne S Zürich&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Fr&lt;/td&gt; &lt;td&gt;19.01.2018 &lt;/td&gt;&lt;td&gt;Bühne S Zürich&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nachricht verschickt, danke!</title>
+      <link>http://www.finkundmeise.ch/message-sent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.finkundmeise.ch/message-sent/</guid>
+      <description>
+
+&lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
+
+&lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Über Uns</title>
+      <link>http://www.finkundmeise.ch/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.finkundmeise.ch/about/</guid>
+      <description>&lt;p&gt;&lt;h1&gt;Über Uns&lt;/h1&gt;
+&lt;center&gt;
+Das Duo Fink &amp;amp; Meise das sind Olivia Keller und Alice Schönenberger. Zwei professionelle Schauspielerinnen, die nach langjähriger gemeinsamer Bühnenerfahrung beschlossen haben, ein Duo zu gründen und so selbstentwickelte Musik- und Theaterprojekte zu verwirklichen.
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Olivia Keller&lt;/h2&gt;
+&lt;img src=&#34;http://www.finkundmeise.ch/images/Olivia.jpg&#34; style=&#34;float: left; margin: 10px;&#34; class=&#34;intext&#34; width= &#34;170px&#34; height=&#34;170px&#34;&lt;/img&gt; &lt;/br&gt; Absolvierte die Schauspielausbildung an der SAMTS (2015) und ist seither auf den deutschschweizer Bühnen unterwegs. So war sie mehrere Saisons mit dem Reisetheater Zürich auf Tournee und realisierte die Eigenproduktion Gloria mit der You Wish Theater Company. Sie macht Musik als Solokünstlerin und in verschiedenen Formationen. Neben der Bühne ist sie als Theatercoach tätig.
+&lt;/br&gt; &lt;br clear=&#34;both&#34;/&gt;
+&lt;left&gt;&lt;h2&gt;Alice Schönenberger&lt;/h2&gt;&lt;/left&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.finkundmeise.ch/images/alice.jpg&#34; style=&#34;float: right; margin: 10px;&#34; class=&#34;intext&#34; width= &#34;170px&#34; height=&#34;170px&#34;&lt;/img&gt; Die diplomierte Bewegungsschauspielerin (comart Zürich 2013) spielte u.a. für die piccola commedia dell’arte, Reisetheater Zürich und  You-Wish-Theater company. Sie entwickelte eigene Projekte etwa Refugees, ein interdisziplinäres Theaterstück mit Flüchtlingen, oder ein philosophisch humanistisches Freilichtspiel Humans. Nebenbei gibt sie Kurse für Kinder und Jugendliche und ist als Lichttechnikerin im Kellertheater Winterthur tätig.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://www.finkundmeise.ch/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.finkundmeise.ch/kontakt/</guid>
+      <description>&lt;h1&gt;Kontakt&lt;/h1&gt;
+
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Interesse? Anregungen oder Fragen? &lt;/br&gt;
+Wir freuen uns auf ihre Kontaktaufnahme &lt;/br&gt;
+&lt;b&gt;info[at]finkundmeise.ch &lt;/b&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;Kontaktformular:
+&lt;p&gt;
+&lt;form action=&#34;//formspree.io/info@finkundmeise.ch&#34; method=&#34;POST&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
+    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
+    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
+    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
+    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://finkundmeise.ch/message-sent&#34; /&gt;
+&lt;/form&gt;&lt;/p&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;find us on Facebook&#34; href=&#34;https://www.facebook.com/DuoFinkundMeise&#34;&gt; &lt;img src=&#34;http://www.finkundmeise.ch/images/fbbutt.png&#34; style=&#34;float: right; margin: 0px;&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.finkundmeise.ch/images/fink9.jpg&#34; width= 600px/&gt; &lt;/br&gt;
+&lt;FONT SIZE=&#34;2&#34;&gt;© 2018 www.finkundmeise.ch
+&lt;/br&gt;Texte &amp;amp; Inhalte by Alice Schönenberger &lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Galerie</title>
+      <link>http://www.finkundmeise.ch/press/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.finkundmeise.ch/press/</guid>
+      <description>&lt;p&gt;&lt;h1&gt;Galerie&lt;/h1&gt; &lt;br/&gt;
+&lt;h2&gt;Impressionen zu Heimwärts&lt;/h2&gt;&lt;/p&gt;
+
+&lt;div class=&#34;gallery&#34; style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;http://www.finkundmeise.ch/images/f&amp;m4.jpg&#34; data-lightbox=&#34;impressions&#34;&gt;
+    &lt;img src=&#34;http://www.finkundmeise.ch/images/f&amp;m4_thumb.jpg&#34;/&gt;
+  &lt;/a&gt;
+
+  &lt;a href=&#34;http://www.finkundmeise.ch/images/f&amp;m1.jpg&#34; data-lightbox=&#34;impressions&#34;&gt;
+    &lt;img src=&#34;http://www.finkundmeise.ch/images/f&amp;m1_thumb.jpg&#34;/&gt;
+  &lt;/a&gt;
+
+  &lt;a href=&#34;http://www.finkundmeise.ch/images/f&amp;m6.jpg&#34; data-lightbox=&#34;impressions&#34;&gt;
+    &lt;img src=&#34;http://www.finkundmeise.ch/images/f&amp;m6_thumb.jpg&#34;/&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;http://www.finkundmeise.ch/images/f&amp;m8.jpg&#34; data-lightbox=&#34;impressions&#34;&gt;
+    &lt;img src=&#34;http://www.finkundmeise.ch/images/f&amp;m8_thumb.jpg&#34;/&gt;
+  &lt;/a&gt;
+&lt;a href=&#34;http://www.finkundmeise.ch/images/f&amp;m9.jpg&#34; data-lightbox=&#34;impressions&#34;&gt;
+    &lt;img src=&#34;http://www.finkundmeise.ch/images/f&amp;m9_thumb.jpg&#34;/&gt;
+  &lt;/a&gt;
+&lt;a href=&#34;http://www.finkundmeise.ch/images/f&amp;m10.jpg&#34; data-lightbox=&#34;impressions&#34;&gt;
+    &lt;img src=&#34;http://www.finkundmeise.ch/images/f&amp;m10_thumb.jpg&#34;/&gt;
+  &lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;h2&gt;Das Duo Fink &amp;amp; Meise&lt;/h2&gt;
+&lt;br/&gt;
+&lt;div class=&#34;gallery&#34; style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;http://www.finkundmeise.ch/images/fink5.jpg&#34; data-lightbox=&#34;duo&#34;&gt;
+    &lt;img src=&#34;http://www.finkundmeise.ch/images/fink5_thumb.jpg&#34;/&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;http://www.finkundmeise.ch/images/fink7.jpg&#34; data-lightbox=&#34;duo&#34;&gt;
+    &lt;img src=&#34;http://www.finkundmeise.ch/images/fink7_thumb.jpg&#34;/&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;http://www.finkundmeise.ch/images/fink6.jpg&#34; data-lightbox=&#34;duo&#34;&gt;
+    &lt;img src=&#34;http://www.finkundmeise.ch/images/fink6_thumb.jpg&#34;/&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;http://www.finkundmeise.ch/images/finkundmeise3.jpg&#34; data-lightbox=&#34;duo&#34;&gt;
+    &lt;img src=&#34;http://www.finkundmeise.ch/images/finkundmeise3_thumb.jpg&#34;/&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;http://www.finkundmeise.ch/images/f&amp;m3.jpg&#34; data-lightbox=&#34;duo&#34;&gt;
+    &lt;img src=&#34;http://www.finkundmeise.ch/images/f&amp;m3_thumb.jpg&#34;/&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;http://www.finkundmeise.ch/images/finkundmeise2.jpg&#34; data-lightbox=&#34;duo&#34;&gt;
+    &lt;img src=&#34;http://www.finkundmeise.ch/images/finkundmeise2_thumb.jpg&#34;/&gt;
+  &lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aktuelles Stück</title>
+      <link>http://www.finkundmeise.ch/stueck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.finkundmeise.ch/stueck/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;http://www.finkundmeise.ch/images/flyerfront1.jpg&#34; width= 900px/&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;letter-spacing: 1px; font-size: 18px&#34;&gt;
+Warum die Zeit im Berg schneller vergeht, man den Hahn besser nicht füttert und der Pfarrer auch nicht alles besser weiss &amp;ndash;
+ Fink &amp;amp; Meise gehen auf Wanderschaft durch den Schweizer Sagen- und Volksliederfundus.
+Kurzweilig, unterhaltsam und
+voller Magie.
+&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;letter-spacing: 1px; font-size: 18px&#34;&gt;
+Mit viel Liebe, Witz und Ironie hat das Duo Fink &amp;amp; Meise unter der Regie von Fabio Romano Sagen und Geschichten neu adaptiert. Entstanden ist ein kurzweiliges, generationenübergreifendes Theaterstück. Poetisch, kritisch und natürlich schweizerisch - ein wahres Vergnügen mit Tiefgang.
+&lt;/span&gt;
+&lt;p&gt;
+Spiel &amp;amp; Idee: Olivia Keller &amp;amp; Alice Schönenberger &lt;/br&gt;
+Regie: Fabio Romano&lt;/br&gt;
+Technik: Anto Goujon &lt;/br&gt;
+Bühnenbild: Benjamin Fischer&lt;/br&gt;
+Flyer &amp;amp; Logo: Stella Waldvogel
+&lt;/p&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt; Nächste Vorstellungen: coming soon! &lt;/h3&gt; &lt;/p&gt;
+
+&lt;p&gt;
+  &lt;h3&gt;
+    &lt;span style=&#34;color:#758484&#34;&gt;
+      Vergangene Vorstellungen
+      &lt;a style=&#34;color:#758484&#34; href=&#34;http://www.finkundmeise.ch/Reservation&#34;&gt;
+        &amp;raquo; Spielplan
+      &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/h3&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

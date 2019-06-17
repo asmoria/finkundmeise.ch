@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://www.finkundmeise.ch/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.finkundmeise.ch/index.html</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.finkundmeise.ch/Reservation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.finkundmeise.ch/message-sent/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.finkundmeise.ch/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.finkundmeise.ch/kontakt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.finkundmeise.ch/press/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.finkundmeise.ch/stueck/</loc>
+  </url>
+  
+</urlset>
