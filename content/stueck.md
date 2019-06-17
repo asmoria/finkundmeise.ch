@@ -25,12 +25,12 @@ Flyer & Logo: Stella Waldvogel
 </p>
 </center>
 
-<p><h3> Nächste Vorstellung: Fr 05.04.2019 20 Uhr / Pfarreiheim St.Sebastian Wettingen </h3> </p>
+<p><h3> Nächste Vorstellungen: coming soon! </h3> </p>
 
 <p>
   <h3>
     <span style="color:#758484">
-      Weitere Vorstellungen
+      Vergangene Vorstellungen
       <a style="color:#758484" href="/Reservation">
         &raquo; Spielplan
       </a>
